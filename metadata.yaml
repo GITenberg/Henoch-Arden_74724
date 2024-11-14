@@ -1,0 +1,47 @@
+_repo: Henoch-Arden_74724
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Kate, J. J. L. ten (Jan Jakob Lodewijk)
+    aliases:
+    - Ten Kate, J. J. L. (Jan Jakob Lodewijk)
+    - Kate, Jan Jakob Lodewijk ten
+    birthdate: 1819
+    deathdate: 1889
+    gutenberg_agent_id: '7419'
+    url: http://www.gutenberg.org/2009/agents/7419
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate
+    - https://en.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate
+  translator:
+    agent_name: Bergh, S. J. van den Bergh
+    gutenberg_agent_id: '57617'
+    url: http://www.gutenberg.org/2009/agents/57617
+creator:
+  author:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson
+description: ''
+gutenberg_issued: '2024-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74724'
+language: nl
+pgterms:marc905: 20060212015626tennyson
+pgterms:marc906: '1887'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg.
+publication_note: '  $aArnhem :$bYbe Ybes, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Henoch Arden
+url: http://www.gutenberg.org/ebooks/74724
