@@ -17,6 +17,9 @@ contributor:
     agent_name: Bergh, S. J. van den Bergh
     gutenberg_agent_id: '57617'
     url: http://www.gutenberg.org/2009/agents/57617
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tennyson, Alfred Tennyson, Baron
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2987
     wikipedia: https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74724#Henoch-Arden
 gutenberg_issued: '2024-11-11'
 gutenberg_type: Text
 identifiers:
